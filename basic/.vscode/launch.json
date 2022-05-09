@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "cwd": "/Users/kaiebina/develop/cworks/nct 2022/agmt 2/code/normal",
+      "environment": [],
+      "program": "/Users/kaiebina/develop/cworks/nct 2022/agmt 2/code/normal/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "console": "integratedTerminal"
+    }
+  ]
+}
